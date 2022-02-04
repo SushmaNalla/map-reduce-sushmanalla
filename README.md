@@ -4,8 +4,10 @@ Basic map reduce using python on Covid-19 in USA
 # Data
 
 For, this Map reduce we have taken dataset which has information from different us states about the recovered population.
+
 This data is taken from the website kaggle and the link is as follows: 
 [Data Link](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
+
 The number of new cases are increasing day by day around the world. This dataset has information from 50 US states about the recovered population.
 
 # Question to be answered from this map reduce
