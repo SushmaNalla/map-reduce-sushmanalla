@@ -31,3 +31,6 @@ The following graph shows the top 10 states with recovered population.
 ![Top 10 states](https://user-images.githubusercontent.com/77800401/152588292-2e2e6b25-20b9-4db6-b70e-39f053ecc603.png)
 
 From the above graph we can see that highest recovered population is from Los Angeles.
+
+# Instructions to Execute
+cat covid_dataset.csv | python 21mapper.py | sort | python .\22reducer.py > nall.txt
